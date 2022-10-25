@@ -7,6 +7,7 @@ Você foi contratado pela DHAUZ como cientista de dados para analisar uma base d
 
 
 Dados: 
+
 -CSV contendo informações das estadias/reservas no período de 2015-2017
 
 
